@@ -26,6 +26,16 @@
 
  - **Active Development and Community:** FastAPI has an active and growing community of developers. The framework is actively maintained, and new features and improvements are regularly introduced. A strong community can provide support, share knowledge, and contribute to the ecosystem.
 
+# Used Database: MongoDB
+
+ - **Schema-less Design:** MongoDB is a document-based database with a flexible, schema-less design. This allows for easy adaptation to changing data requirements without the need for a predefined schema.
+ - **JSON-like Documents:** MongoDB stores data in BSON (Binary JSON) format, which is a binary representation of JSON-like documents. This makes it easy for developers to work with data using a format that is similar to JSON.
+ - **Dynamic Schema:** Unlike traditional relational databases, MongoDB allows for a dynamic schema, meaning documents in the same collection can have different fields. This flexibility is beneficial when dealing with evolving data structures.
+ - **Scalability:** MongoDB supports horizontal scalability through sharding. Sharding enables distributing data across multiple servers, allowing MongoDB to handle large amounts of data and high traffic.
+ - **Query Language:** MongoDB provides a powerful and expressive query language that supports a wide range of queries, including complex ones. It also supports indexing for efficient query performance.
+ - **Ease of Development:** MongoDB's flexible schema, JSON-like documents, and support for multiple data types make it easy for developers to work with and adapt to changing application requirements.
+ - **Open Source:** MongoDB is open-source software, which means it is freely available and comes with an active community. This allows developers to access the source code, contribute to its development, and benefit from community support.
+
 
 # Flow
 
